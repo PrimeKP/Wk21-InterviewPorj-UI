@@ -1,0 +1,7 @@
+2023-01-15 21:59:56 INFO  TopMenuPage :27 - Click on Accept Coockies on pop up [[ChromeDriver: chrome on WINDOWS (3c0cc5f5ad78763157625a9cc11328a9)] -> xpath: //*[@id="__tealiumGDPRecModal"]/div/div/div/div[2]/label]
+2023-01-15 22:23:52 INFO  TopMenuPage :27 - Click on Accept Coockies on pop up [[ChromeDriver: chrome on WINDOWS (9d551285ee3e3e36bf1cbac9e05c3605)] -> xpath: //*[@id="__tealiumGDPRecModal"]/div/div/div/div[2]/label]
+2023-01-15 22:23:52 INFO  TopMenuPage :32 - Click on Free Game [[ChromeDriver: chrome on WINDOWS (9d551285ee3e3e36bf1cbac9e05c3605)] -> xpath: //body[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]]
+2023-01-15 22:23:54 INFO  TopMenuPage :37 - Verifying text on free game page [[ChromeDriver: chrome on WINDOWS (9d551285ee3e3e36bf1cbac9e05c3605)] -> xpath: //*[@id="styledApp"]/div/section[2]/h1]
+2023-01-20 15:00:34 INFO  TopMenuPage :27 - Click on Accept Coockies on pop up [[ChromeDriver: chrome on WINDOWS (2b59b925dac415b02dc82c4a168bb963)] -> xpath: //*[@id="__tealiumGDPRecModal"]/div/div/div/div[2]/label]
+2023-01-20 15:00:34 INFO  TopMenuPage :32 - Click on Free Game [[ChromeDriver: chrome on WINDOWS (2b59b925dac415b02dc82c4a168bb963)] -> xpath: //body[1]/div[2]/div[1]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]]
+2023-01-20 15:00:35 INFO  TopMenuPage :37 - Verifying text on free game page [[ChromeDriver: chrome on WINDOWS (2b59b925dac415b02dc82c4a168bb963)] -> xpath: //*[@id="styledApp"]/div/section[2]/h1]
